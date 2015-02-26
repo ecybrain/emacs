@@ -109,3 +109,7 @@
 (add-to-list 'load-path "~/.emacs.d/plugins/jdee-2.4.1/lisp")
 (add-to-list 'load-path (expand-file-name "~/.emacs.d/plugins/elib-1.0"))
 (require 'jde)
+
+;;git-emacs
+(add-to-list 'load-path "~/.emacs.d/plugins/git-emacs/")
+(require 'git-emacs)
