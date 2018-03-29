@@ -1,3 +1,4 @@
+
 (server-start)
 
 (setq inhibit-startup-message t)
